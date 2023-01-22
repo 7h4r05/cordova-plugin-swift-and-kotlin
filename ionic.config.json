@@ -1,0 +1,7 @@
+{
+  "name": "cordova-plugin-swift-and-kotlin",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
