@@ -1,0 +1,21 @@
+{
+  "name": "calculator-plugin",
+  "version": "1.0.0",
+  "description": "My first Cordova plugin",
+  "cordova": {
+    "id": "calculator-plugin",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "keywords": [
+    "cordova",
+    "cordova-android",
+    "cordova-ios",
+    "swift",
+    "kotlin"
+  ],
+  "author": "Dariusz Zabrzeński",
+  "license": "MIT"
+}
